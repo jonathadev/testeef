@@ -1,0 +1,29 @@
+https://www.youtube.com/watch?v=but7jqjopKM video dele
+Criando uma API com ASP.NET Core 3 e EF Core 3 em menos de 15 minutos | por André Baltieri #baltaio
+
+banco de dados interno
+produtos e categorias
+get id para cada e post e get normal para cada
+swagger
+
+
+adaptações com comandos novos para rodar o projeto
+
+dotnet tool install --global dotnet-ef
+dotnet add package Microsoft.EntityFrameworkCore.Design
+
+https://docs.microsoft.com/pt-br/ef/core/get-started/overview/install
+
+
+
+dotnet add package Microsoft.EntityFrameworkCore.InMemory 
+
+
+//-Version 3.1.5
+
+
+usar .net 5
+
+visual studo 2022 e nao code por causa .net 5 sdk e runtime 
+
+https://dotnet.microsoft.com/en-us/download/dotnet/5.0
